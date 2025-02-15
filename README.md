@@ -1,8 +1,5 @@
 # ML Based Diamond Price Estimator
 
-* __Group Members__ :
-    - Atharva Panchakshari 
-    - Siddesh Dagwal
 
 * __Progress__ :
 
